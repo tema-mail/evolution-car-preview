@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /
-
-Sitemap: https://tema-mail.github.io/evolution-car-preview/sitemap.xml
